@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1793002044,,"wq"
+|2,0,1793010013,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,28 +25,78 @@
 # Registers:
 
 # File marks:
-'0  5  3  ~/practice/5.txt
-|4,48,5,3,1793002044,"~/practice/5.txt"
-'1  13  0  ~/practice/4.txt
-|4,49,13,0,1793002013,"~/practice/4.txt"
-'2  19  0  ~/practice/3.txt
-|4,50,19,0,1793001965,"~/practice/3.txt"
-'3  19  0  ~/practice/3.txt
-|4,51,19,0,1792999365,"~/practice/3.txt"
-'4  12  7  ~/practice/2.txt
-|4,52,12,7,1792999329,"~/practice/2.txt"
-'5  15  0  ~/practice/1.txt
-|4,53,15,0,1792999015,"~/practice/1.txt"
+'0  1  0  ~/.git/COMMIT_EDITMSG
+|4,48,1,0,1793010013,"~/.git/COMMIT_EDITMSG"
+'1  5  32  ~/.gitconfig
+|4,49,5,32,1793009944,"~/.gitconfig"
+'2  5  3  ~/practice/5.txt
+|4,50,5,3,1793002044,"~/practice/5.txt"
+'3  13  0  ~/practice/4.txt
+|4,51,13,0,1793002013,"~/practice/4.txt"
+'4  19  0  ~/practice/3.txt
+|4,52,19,0,1793001965,"~/practice/3.txt"
+'5  19  0  ~/practice/3.txt
+|4,53,19,0,1792999365,"~/practice/3.txt"
+'6  12  7  ~/practice/2.txt
+|4,54,12,7,1792999329,"~/practice/2.txt"
+'7  15  0  ~/practice/1.txt
+|4,55,15,0,1792999015,"~/practice/1.txt"
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1793010013,"~/.git/COMMIT_EDITMSG"
+-'  5  32  ~/.gitconfig
+|4,39,5,32,1793009944,"~/.gitconfig"
+-'  5  32  ~/.gitconfig
+|4,39,5,32,1793009944,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1793009899,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1793009899,"~/.gitconfig"
 -'  5  3  ~/practice/5.txt
 |4,39,5,3,1793002044,"~/practice/5.txt"
+-'  5  3  ~/practice/5.txt
+|4,39,5,3,1793002044,"~/practice/5.txt"
+-'  5  3  ~/practice/5.txt
+|4,39,5,3,1793002044,"~/practice/5.txt"
+-'  5  3  ~/practice/5.txt
+|4,39,5,3,1793002044,"~/practice/5.txt"
+-'  1  0  ~/practice/5.txt
+|4,39,1,0,1793002019,"~/practice/5.txt"
+-'  1  0  ~/practice/5.txt
+|4,39,1,0,1793002019,"~/practice/5.txt"
+-'  1  0  ~/practice/5.txt
+|4,39,1,0,1793002019,"~/practice/5.txt"
 -'  1  0  ~/practice/5.txt
 |4,39,1,0,1793002019,"~/practice/5.txt"
 -'  13  0  ~/practice/4.txt
 |4,39,13,0,1793002013,"~/practice/4.txt"
 -'  13  0  ~/practice/4.txt
 |4,39,13,0,1793002013,"~/practice/4.txt"
+-'  13  0  ~/practice/4.txt
+|4,39,13,0,1793002013,"~/practice/4.txt"
+-'  13  0  ~/practice/4.txt
+|4,39,13,0,1793002013,"~/practice/4.txt"
+-'  13  0  ~/practice/4.txt
+|4,39,13,0,1793002013,"~/practice/4.txt"
+-'  13  0  ~/practice/4.txt
+|4,39,13,0,1793002013,"~/practice/4.txt"
+-'  13  0  ~/practice/4.txt
+|4,39,13,0,1793002013,"~/practice/4.txt"
+-'  13  0  ~/practice/4.txt
+|4,39,13,0,1793002013,"~/practice/4.txt"
+-'  1  0  ~/practice/4.txt
+|4,39,1,0,1793001973,"~/practice/4.txt"
+-'  1  0  ~/practice/4.txt
+|4,39,1,0,1793001973,"~/practice/4.txt"
+-'  1  0  ~/practice/4.txt
+|4,39,1,0,1793001973,"~/practice/4.txt"
+-'  1  0  ~/practice/4.txt
+|4,39,1,0,1793001973,"~/practice/4.txt"
+-'  1  0  ~/practice/4.txt
+|4,39,1,0,1793001973,"~/practice/4.txt"
+-'  1  0  ~/practice/4.txt
+|4,39,1,0,1793001973,"~/practice/4.txt"
 -'  1  0  ~/practice/4.txt
 |4,39,1,0,1793001973,"~/practice/4.txt"
 -'  1  0  ~/practice/4.txt
@@ -60,6 +110,34 @@
 -'  19  0  ~/practice/3.txt
 |4,39,19,0,1793001965,"~/practice/3.txt"
 -'  19  0  ~/practice/3.txt
+|4,39,19,0,1793001965,"~/practice/3.txt"
+-'  19  0  ~/practice/3.txt
+|4,39,19,0,1793001965,"~/practice/3.txt"
+-'  19  0  ~/practice/3.txt
+|4,39,19,0,1793001965,"~/practice/3.txt"
+-'  19  0  ~/practice/3.txt
+|4,39,19,0,1793001965,"~/practice/3.txt"
+-'  19  0  ~/practice/3.txt
+|4,39,19,0,1793001965,"~/practice/3.txt"
+-'  19  0  ~/practice/3.txt
+|4,39,19,0,1793001965,"~/practice/3.txt"
+-'  19  0  ~/practice/3.txt
+|4,39,19,0,1793001965,"~/practice/3.txt"
+-'  19  0  ~/practice/3.txt
+|4,39,19,0,1793001965,"~/practice/3.txt"
+-'  19  0  ~/practice/3.txt
+|4,39,19,0,1793001965,"~/practice/3.txt"
+-'  19  0  ~/practice/3.txt
+|4,39,19,0,1793001965,"~/practice/3.txt"
+-'  19  0  ~/practice/3.txt
+|4,39,19,0,1793001965,"~/practice/3.txt"
+-'  19  0  ~/practice/3.txt
+|4,39,19,0,1793001965,"~/practice/3.txt"
+-'  19  0  ~/practice/3.txt
+|4,39,19,0,1792999365,"~/practice/3.txt"
+-'  19  0  ~/practice/3.txt
+|4,39,19,0,1792999365,"~/practice/3.txt"
+-'  19  0  ~/practice/3.txt
 |4,39,19,0,1792999365,"~/practice/3.txt"
 -'  19  0  ~/practice/3.txt
 |4,39,19,0,1792999365,"~/practice/3.txt"
@@ -67,6 +145,74 @@
 |4,39,19,0,1792999365,"~/practice/3.txt"
 -'  19  0  ~/practice/3.txt
 |4,39,19,0,1792999365,"~/practice/3.txt"
+-'  19  0  ~/practice/3.txt
+|4,39,19,0,1792999365,"~/practice/3.txt"
+-'  19  0  ~/practice/3.txt
+|4,39,19,0,1792999365,"~/practice/3.txt"
+-'  19  0  ~/practice/3.txt
+|4,39,19,0,1792999365,"~/practice/3.txt"
+-'  19  0  ~/practice/3.txt
+|4,39,19,0,1792999365,"~/practice/3.txt"
+-'  19  0  ~/practice/3.txt
+|4,39,19,0,1792999365,"~/practice/3.txt"
+-'  19  0  ~/practice/3.txt
+|4,39,19,0,1792999365,"~/practice/3.txt"
+-'  19  0  ~/practice/3.txt
+|4,39,19,0,1792999365,"~/practice/3.txt"
+-'  19  0  ~/practice/3.txt
+|4,39,19,0,1792999365,"~/practice/3.txt"
+-'  19  0  ~/practice/3.txt
+|4,39,19,0,1792999365,"~/practice/3.txt"
+-'  19  0  ~/practice/3.txt
+|4,39,19,0,1792999365,"~/practice/3.txt"
+-'  1  0  ~/practice/3.txt
+|4,39,1,0,1792999339,"~/practice/3.txt"
+-'  1  0  ~/practice/3.txt
+|4,39,1,0,1792999339,"~/practice/3.txt"
+-'  1  0  ~/practice/3.txt
+|4,39,1,0,1792999339,"~/practice/3.txt"
+-'  1  0  ~/practice/3.txt
+|4,39,1,0,1792999339,"~/practice/3.txt"
+-'  1  0  ~/practice/3.txt
+|4,39,1,0,1792999339,"~/practice/3.txt"
+-'  1  0  ~/practice/3.txt
+|4,39,1,0,1792999339,"~/practice/3.txt"
+-'  1  0  ~/practice/3.txt
+|4,39,1,0,1792999339,"~/practice/3.txt"
+-'  1  0  ~/practice/3.txt
+|4,39,1,0,1792999339,"~/practice/3.txt"
+-'  1  0  ~/practice/3.txt
+|4,39,1,0,1792999339,"~/practice/3.txt"
+-'  1  0  ~/practice/3.txt
+|4,39,1,0,1792999339,"~/practice/3.txt"
+-'  1  0  ~/practice/3.txt
+|4,39,1,0,1792999339,"~/practice/3.txt"
+-'  1  0  ~/practice/3.txt
+|4,39,1,0,1792999339,"~/practice/3.txt"
+-'  1  0  ~/practice/3.txt
+|4,39,1,0,1792999339,"~/practice/3.txt"
+-'  1  0  ~/practice/3.txt
+|4,39,1,0,1792999339,"~/practice/3.txt"
+-'  1  0  ~/practice/3.txt
+|4,39,1,0,1792999339,"~/practice/3.txt"
+-'  1  0  ~/practice/3.txt
+|4,39,1,0,1792999339,"~/practice/3.txt"
+-'  1  0  ~/practice/3.txt
+|4,39,1,0,1792999339,"~/practice/3.txt"
+-'  1  0  ~/practice/3.txt
+|4,39,1,0,1792999339,"~/practice/3.txt"
+-'  1  0  ~/practice/3.txt
+|4,39,1,0,1792999339,"~/practice/3.txt"
+-'  1  0  ~/practice/3.txt
+|4,39,1,0,1792999339,"~/practice/3.txt"
+-'  1  0  ~/practice/3.txt
+|4,39,1,0,1792999339,"~/practice/3.txt"
+-'  1  0  ~/practice/3.txt
+|4,39,1,0,1792999339,"~/practice/3.txt"
+-'  1  0  ~/practice/3.txt
+|4,39,1,0,1792999339,"~/practice/3.txt"
+-'  1  0  ~/practice/3.txt
+|4,39,1,0,1792999339,"~/practice/3.txt"
 -'  1  0  ~/practice/3.txt
 |4,39,1,0,1792999339,"~/practice/3.txt"
 -'  1  0  ~/practice/3.txt
@@ -97,150 +243,20 @@
 |4,39,12,7,1792999329,"~/practice/2.txt"
 -'  12  7  ~/practice/2.txt
 |4,39,12,7,1792999329,"~/practice/2.txt"
--'  12  7  ~/practice/2.txt
-|4,39,12,7,1792999329,"~/practice/2.txt"
--'  12  7  ~/practice/2.txt
-|4,39,12,7,1792999329,"~/practice/2.txt"
--'  12  7  ~/practice/2.txt
-|4,39,12,7,1792999329,"~/practice/2.txt"
--'  12  7  ~/practice/2.txt
-|4,39,12,7,1792999329,"~/practice/2.txt"
--'  12  7  ~/practice/2.txt
-|4,39,12,7,1792999329,"~/practice/2.txt"
--'  12  7  ~/practice/2.txt
-|4,39,12,7,1792999329,"~/practice/2.txt"
--'  12  7  ~/practice/2.txt
-|4,39,12,7,1792999329,"~/practice/2.txt"
--'  12  7  ~/practice/2.txt
-|4,39,12,7,1792999329,"~/practice/2.txt"
--'  12  7  ~/practice/2.txt
-|4,39,12,7,1792999329,"~/practice/2.txt"
--'  1  0  ~/practice/2.txt
-|4,39,1,0,1792999278,"~/practice/2.txt"
--'  1  0  ~/practice/2.txt
-|4,39,1,0,1792999278,"~/practice/2.txt"
--'  1  0  ~/practice/2.txt
-|4,39,1,0,1792999278,"~/practice/2.txt"
--'  1  0  ~/practice/2.txt
-|4,39,1,0,1792999278,"~/practice/2.txt"
--'  1  0  ~/practice/2.txt
-|4,39,1,0,1792999278,"~/practice/2.txt"
--'  1  0  ~/practice/2.txt
-|4,39,1,0,1792999278,"~/practice/2.txt"
--'  1  0  ~/practice/2.txt
-|4,39,1,0,1792999278,"~/practice/2.txt"
--'  1  0  ~/practice/2.txt
-|4,39,1,0,1792999278,"~/practice/2.txt"
--'  1  0  ~/practice/2.txt
-|4,39,1,0,1792999278,"~/practice/2.txt"
--'  1  0  ~/practice/2.txt
-|4,39,1,0,1792999278,"~/practice/2.txt"
--'  1  0  ~/practice/2.txt
-|4,39,1,0,1792999278,"~/practice/2.txt"
--'  1  0  ~/practice/2.txt
-|4,39,1,0,1792999278,"~/practice/2.txt"
--'  1  0  ~/practice/2.txt
-|4,39,1,0,1792999278,"~/practice/2.txt"
--'  1  0  ~/practice/2.txt
-|4,39,1,0,1792999278,"~/practice/2.txt"
--'  1  0  ~/practice/2.txt
-|4,39,1,0,1792999278,"~/practice/2.txt"
--'  1  0  ~/practice/2.txt
-|4,39,1,0,1792999278,"~/practice/2.txt"
--'  15  0  ~/practice/1.txt
-|4,39,15,0,1792999015,"~/practice/1.txt"
--'  15  0  ~/practice/1.txt
-|4,39,15,0,1792999015,"~/practice/1.txt"
--'  15  0  ~/practice/1.txt
-|4,39,15,0,1792999015,"~/practice/1.txt"
--'  15  0  ~/practice/1.txt
-|4,39,15,0,1792999015,"~/practice/1.txt"
--'  15  0  ~/practice/1.txt
-|4,39,15,0,1792999015,"~/practice/1.txt"
--'  15  0  ~/practice/1.txt
-|4,39,15,0,1792999015,"~/practice/1.txt"
--'  15  0  ~/practice/1.txt
-|4,39,15,0,1792999015,"~/practice/1.txt"
--'  15  0  ~/practice/1.txt
-|4,39,15,0,1792999015,"~/practice/1.txt"
--'  15  0  ~/practice/1.txt
-|4,39,15,0,1792999015,"~/practice/1.txt"
--'  15  0  ~/practice/1.txt
-|4,39,15,0,1792999015,"~/practice/1.txt"
--'  15  0  ~/practice/1.txt
-|4,39,15,0,1792999015,"~/practice/1.txt"
--'  15  0  ~/practice/1.txt
-|4,39,15,0,1792999015,"~/practice/1.txt"
--'  15  0  ~/practice/1.txt
-|4,39,15,0,1792999015,"~/practice/1.txt"
--'  15  0  ~/practice/1.txt
-|4,39,15,0,1792999015,"~/practice/1.txt"
--'  15  0  ~/practice/1.txt
-|4,39,15,0,1792999015,"~/practice/1.txt"
--'  15  0  ~/practice/1.txt
-|4,39,15,0,1792999015,"~/practice/1.txt"
--'  15  0  ~/practice/1.txt
-|4,39,15,0,1792999015,"~/practice/1.txt"
--'  15  0  ~/practice/1.txt
-|4,39,15,0,1792999015,"~/practice/1.txt"
--'  15  0  ~/practice/1.txt
-|4,39,15,0,1792999015,"~/practice/1.txt"
--'  15  0  ~/practice/1.txt
-|4,39,15,0,1792999015,"~/practice/1.txt"
--'  15  0  ~/practice/1.txt
-|4,39,15,0,1792999015,"~/practice/1.txt"
--'  15  0  ~/practice/1.txt
-|4,39,15,0,1792999015,"~/practice/1.txt"
--'  15  0  ~/practice/1.txt
-|4,39,15,0,1792999015,"~/practice/1.txt"
--'  15  0  ~/practice/1.txt
-|4,39,15,0,1792999015,"~/practice/1.txt"
--'  15  0  ~/practice/1.txt
-|4,39,15,0,1792999015,"~/practice/1.txt"
--'  15  0  ~/practice/1.txt
-|4,39,15,0,1792999015,"~/practice/1.txt"
--'  15  0  ~/practice/1.txt
-|4,39,15,0,1792999015,"~/practice/1.txt"
--'  15  0  ~/practice/1.txt
-|4,39,15,0,1792999015,"~/practice/1.txt"
--'  15  0  ~/practice/1.txt
-|4,39,15,0,1792999015,"~/practice/1.txt"
--'  15  0  ~/practice/1.txt
-|4,39,15,0,1792999015,"~/practice/1.txt"
--'  15  0  ~/practice/1.txt
-|4,39,15,0,1792999015,"~/practice/1.txt"
--'  15  0  ~/practice/1.txt
-|4,39,15,0,1792999015,"~/practice/1.txt"
--'  1  0  ~/practice/1.txt
-|4,39,1,0,1792998980,"~/practice/1.txt"
--'  1  0  ~/practice/1.txt
-|4,39,1,0,1792998980,"~/practice/1.txt"
--'  1  0  ~/practice/1.txt
-|4,39,1,0,1792998980,"~/practice/1.txt"
--'  1  0  ~/practice/1.txt
-|4,39,1,0,1792998980,"~/practice/1.txt"
--'  1  0  ~/practice/1.txt
-|4,39,1,0,1792998980,"~/practice/1.txt"
--'  1  0  ~/practice/1.txt
-|4,39,1,0,1792998980,"~/practice/1.txt"
--'  1  0  ~/practice/1.txt
-|4,39,1,0,1792998980,"~/practice/1.txt"
--'  1  0  ~/practice/1.txt
-|4,39,1,0,1792998980,"~/practice/1.txt"
--'  1  0  ~/practice/1.txt
-|4,39,1,0,1792998980,"~/practice/1.txt"
--'  1  0  ~/practice/1.txt
-|4,39,1,0,1792998980,"~/practice/1.txt"
--'  1  0  ~/practice/1.txt
-|4,39,1,0,1792998980,"~/practice/1.txt"
--'  1  0  ~/practice/1.txt
-|4,39,1,0,1792998980,"~/practice/1.txt"
--'  1  0  ~/practice/1.txt
-|4,39,1,0,1792998980,"~/practice/1.txt"
--'  1  0  ~/practice/1.txt
-|4,39,1,0,1792998980,"~/practice/1.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	*	1793010010	0
+	"	1	0
+
+> ~/.gitconfig
+	*	1793009942	0
+	"	5	32
+	^	5	33
+	.	5	32
+	+	4	15
+	+	5	32
 
 > ~/practice/5.txt
 	*	1793002041	0
