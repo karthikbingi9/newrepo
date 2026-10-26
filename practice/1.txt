@@ -1,0 +1,15 @@
+Hi
+this
+is
+the
+first
+text
+file
+in
+this
+terminal
+/
+.
+.
+.
+.

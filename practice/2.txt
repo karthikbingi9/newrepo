@@ -1,0 +1,12 @@
+this
+is
+the
+second
+text
+file
+that
+i
+created
+in
+this
+terminal
